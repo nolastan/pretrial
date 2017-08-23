@@ -1,56 +1,58 @@
 {
-  "judges": {
+  "updated_at": "2017-08-23",
+  "source_url": "http://www.criminalcourt.org/",
+  "data": {
     "A": {
       "name": "Laurie A. White",
-      "photo_url": "http://via.placeholder.com/100x100"
+      "photo_url": "images/judges/section-a-square.jpeg"
     },
     "B": {
       "name": "Tracey Flemings-Davillier",
-      "photo_url": "http://via.placeholder.com/100x100"
+      "photo_url": "images/judges/section-b-square.png"
     },
     "C": {
       "name": "Benedict J. Willard",
-      "photo_url": "http://via.placeholder.com/100x100"
+      "photo_url": "images/judges/section-c-square.jpeg"
     },
     "D": {
       "name": "Paul A. Bonin",
-      "photo_url": "http://via.placeholder.com/100x100"
+      "photo_url": "images/judges/section-d-square.jpeg"
     },
     "E": {
       "name": "Keva Landrum-Johnson",
-      "photo_url": "http://via.placeholder.com/100x100"
+      "photo_url": "images/judges/section-e-square.jpeg"
     },
     "F": {
       "name": "Robin D. Pittman",
-      "photo_url": "http://via.placeholder.com/100x100"
+      "photo_url": "images/judges/section-f-square.jpeg"
     },
     "G": {
       "name": "Byron C. Williams",
-      "photo_url": "http://via.placeholder.com/100x100"
+      "photo_url": "images/judges/section-g-square.png"
     },
     "H": {
       "name": "Camille Buras",
-      "photo_url": "http://via.placeholder.com/100x100"
+      "photo_url": "images/judges/section-h-square.jpeg"
     },
     "I": {
       "name": "Karen K. Herman",
-      "photo_url": "http://via.placeholder.com/100x100"
+      "photo_url": "images/judges/section-i-square.jpeg"
     },
     "J": {
       "name": "Darryl A. Derbigny",
-      "photo_url": "http://via.placeholder.com/100x100"
+      "photo_url": "images/judges/section-j-square.jpeg"
     },
     "K": {
       "name": "Arthur L. Hunter, Jr.",
-      "photo_url": "http://via.placeholder.com/100x100"
+      "photo_url": "images/judges/section-k-square.jpeg"
     },
     "L": {
       "name": "Franz L. Zibilich",
-      "photo_url": "http://via.placeholder.com/100x100"
+      "photo_url": "images/judges/section-l-square.jpeg"
     },
-    "Magistrate": {
+    "magistrate": {
       "name": "Harry E. Cantrell, Jr.",
-      "photo_url": "http://via.placeholder.com/100x100"
+      "photo_url": "images/judges/magistrate-square.jpeg"
     }
   }
 }
