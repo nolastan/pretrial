@@ -1,0 +1,56 @@
+{
+  "judges": {
+    "A": {
+      "name": "Laurie A. White",
+      "photo_url": "http://via.placeholder.com/100x100"
+    },
+    "B": {
+      "name": "Tracey Flemings-Davillier",
+      "photo_url": "http://via.placeholder.com/100x100"
+    },
+    "C": {
+      "name": "Benedict J. Willard",
+      "photo_url": "http://via.placeholder.com/100x100"
+    },
+    "D": {
+      "name": "Paul A. Bonin",
+      "photo_url": "http://via.placeholder.com/100x100"
+    },
+    "E": {
+      "name": "Keva Landrum-Johnson",
+      "photo_url": "http://via.placeholder.com/100x100"
+    },
+    "F": {
+      "name": "Robin D. Pittman",
+      "photo_url": "http://via.placeholder.com/100x100"
+    },
+    "G": {
+      "name": "Byron C. Williams",
+      "photo_url": "http://via.placeholder.com/100x100"
+    },
+    "H": {
+      "name": "Camille Buras",
+      "photo_url": "http://via.placeholder.com/100x100"
+    },
+    "I": {
+      "name": "Karen K. Herman",
+      "photo_url": "http://via.placeholder.com/100x100"
+    },
+    "J": {
+      "name": "Darryl A. Derbigny",
+      "photo_url": "http://via.placeholder.com/100x100"
+    },
+    "K": {
+      "name": "Arthur L. Hunter, Jr.",
+      "photo_url": "http://via.placeholder.com/100x100"
+    },
+    "L": {
+      "name": "Franz L. Zibilich",
+      "photo_url": "http://via.placeholder.com/100x100"
+    },
+    "Magistrate": {
+      "name": "Harry E. Cantrell, Jr.",
+      "photo_url": "http://via.placeholder.com/100x100"
+    }
+  }
+}
