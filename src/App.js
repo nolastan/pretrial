@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import JudgeCard from './cards/JudgeCard.js';
 import CounselCard from './cards/CounselCard.js';
+import Hero from './Hero.js';
 
 // Stubbed Data
 import JudgeData from './data/judges.json';
@@ -17,9 +18,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <p>
-        {docket.name}, your arraignment is in 3 days.
-        </p>
+        <Hero name={docket.name} />
         <JudgeCard judge={JudgeData.data[docket.section]} />
         <CounselCard counsel={CounselData.data[docket.counsel]} />
       </div>
