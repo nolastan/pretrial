@@ -1,127 +1,89 @@
 {
   "updated_at": "2017-08-23",
   "source_url": "http://www.opdla.org/who-we-are/our-staff?sid=54&task=list.alpha.A-Z",
-  "data":
-  {
-    "John Ackerman": {
-      "name": "John Ackerman",
-      "position":"Staff Investigator","phone":"504-827-8221","extension":278,"email":"jackerman@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/203/thumb_John%20Ackerman.jpg"
-    },
-    "Mary Soo Anderson": {
-      "name": "Mary Soo Anderson",
-      "position":"Staff Attorney","phone":"504-827-8178","extension":275,"email":"manderson@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/247/img_Mary%20Soo%20Anderson.jpg"
-    },
-    "Lauren Anderson": {
-      "name": "Lauren Anderson",
-      "position":"Staff Attorney","phone":"504-827-8190","extension":259,"email":"landerson@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/177/img_Lauren%20Anderson.jpg"
-    },
-    "Grace Anzalone": {
-      "name": "Grace Anzalone",
-      "position":"Youth Advocate","phone":"504-827-8181","extension":259,"email":"ganzalone@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/239/img_Grace%20Anzalone%20.jpg"
-    },
-    "Mark Balfe": {
-      "name": "Mark Balfe",
-      "position":"Paralegal, Gideon's Promise Fellow","phone":"504-827-7059","extension":316,"email":"mbalfe@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/269/img_Mark%20Balfe.jpg"
-    },
-    "Dannielle Berger": {
-      "name": "Dannielle Berger",
-      "position":"Chief Administrative Officer","phone":"504-827-8200","extension":224,"email":"dberger@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/124/img_Dannielle%20Berger.jpg"
-    },
-    "Mehtab Brar": {
-      "name": "Mehtab Brar",
-      "position":"Staff Attorney","phone":"504-827-8172","extension":236,"email":"mbrar@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/276/thumb_Mehtab%20Brar.jpg"
-    },
-    "Derwyn Bunton": {
-      "name": "Derwyn Bunton",
-      "position":"Chief District Defender","phone":"504-827-8204","extension":277,"email":"dbunton@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/68/thumb_Derwyn%20Bunton.jpg"
-    },
-    "Elise Benusa": {
-      "name": "Elise Benusa",
-      "position":"Client Services Deputy Supervisor","phone":"504-827-7047","extension":320,"email":"ebenusa@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/213/thumb_Elise%20Benusa.jpg"
-    },
-    "Laura Bixby": {
-      "name": "Laura Bixby",
-      "position":"Staff Attorney","phone":"504-827-7051","extension":326,"email":"lbixby@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/249/img_Laura%20Bixby.jpg"
-    },
-    "James Brockway": {
-      "name": "James Brockway",
-      "position":"Staff Attorney","phone":"504-571-8919","extension":306,"email":"jbrockway@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/220/thumb_James%20Brockway.jpg"
-    },
-    "Alexis Chernow": {
-      "name": "Alexis Chernow",
-      "position":"Staff Attorney","phone":"504-571-8920","extension":279,"email":"achernow@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/211/thumb_Alexis%20Chernow.jpg"
-    },
-    "Jalicia Corley": {
-      "name": "Jalicia Corley",
-      "position":"Staff Investigator","phone":"504-571-8912","extension":331,"email":"jcorley@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/119/thumb_Jalicia%20Corley.jpg"
-    },
-    "Sean Collins": {
-      "name": "Sean Collins",
-      "position":"Staff Attorney","phone":"504-827-8229","extension":309,"email":"scollins@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/278/thumb_Sean%20Collins.jpg"
-    },
-    "Adrienne Cousins": {
-      "name": "Adrienne Cousins",
-      "position":"Staff Attorney","phone":"504-827-8177","extension":235,"email":"acousins@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/156/thumb_Adrienne%20Cousins.jpg"
-    },
-    "Ashley DeMouy": {
-      "name": "Ashley DeMouy",
-      "position":"Staff Attorney","phone":"504-827-8233","extension":240,"email":"ademouy@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/173/thumb_Ashley%20DuMouy.jpg"
-    },
-    "Dylan Duffey": {
-      "name": "Dylan Duffey",
-      "position":"Staff Attorney","phone":"504-827-8250","extension":289,"email":"dduffey@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/250/thumb_Dylan%20Duffey.jpg"
-    },
-    "Carrie Ellis": {
-      "name": "Carrie Ellis",
-      "position":"Training Director","phone":"504-827-8222","extension":308,"email":"cellis@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/71/thumb_Carrie%20Ellis.jpg"
-    },
-    "Danny Engelberg": {
-      "name": "Danny Engelberg",
-      "position":"Chief of Trials","phone":"504-827-8186","extension":230,"email":"dengelberg@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/72/thumb_Danny%20Engelberg.jpg"
-    },
-    "Yanet Estrella": {
-      "name": "Yanet Estrella",
-      "position":"Staff Investigator, Ben Levick Sullivan Fellow","phone":null,"extension":null,"email":"yestrella@opdla.org","photo_url":null
-    },
-    "Jan Fennell": {
-      "name": "Jan Fennell",
-      "position":"Staff Attorney","phone":"504-827-8191","extension":251,"email":"jfennell@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/251/thumb_Jan%20Fennell.jpg"
-    },
-    "Juan Fiol": {
-      "name": "Juan Fiol",
-      "position":"Staff Attorney","phone":"504-827-7049","extension":322,"email":"jfiol@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/288/thumb_Juan%20Fiol.jpg"
-    },
-    "Ed Flores": {
-      "name": "Ed Flores",
-      "position":"Staff Attorney, Gideon's Promise Fellow","phone":"504-827-8171","extension":248,"email":"eflores@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/270/thumb_Ed%20Flores.jpg"
-    },
-    "Amanda Fraser": {
-      "name": "Amanda Fraser",
-      "position":"Deputy Chief of Trials","phone":"504-827-8205","extension":298,"email":"afraser@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/73/thumb_Amanda%20Fraser.jpg"
-    },
-    "Laura Garcia": {
-      "name": "Laura Garcia",
-      "position":"Conflict Administrator","phone":"504-571-8924","extension":303,"email":"lgarcia@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/263/thumb_Laura%20Garcia.jpg"
-    },
-    "Quintrell Griffin": {
-      "name": "Quintrell Griffin",
-      "position":"Client and Court Support Administrator","phone":"504-571-8914","extension":293,"email":"qgriffin@opdla.org","photo_url":null
-    },
-    "Lucy Hall": {
-      "name": "Lucy Hall",
-      "position":"Staff Investigator","phone":"504-827-8184","extension":225,"email":"lhall@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/274/thumb_Lucy%20Hall.jpg"
-    },
-    "Kenneth Hardin": {
-      "name": "Kenneth Hardin",
-      "position":"Supervising Staff Attorney","phone":"504-827-8227","extension":288,"email":"khardin@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/93/thumb_Kenneth%20Hardin.jpg"
-    },
-    "Nicole Heisser": {
-      "name": "Nicole Heisser",
-      "position":"Supervising Investigator","phone":"504-827-8175","extension":231,"email":"nheisser@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/145/thumb_Nicole%20Heisser.jpg"
-    },
-    "Nzinga Hill": {
-      "name": "Nzinga Hill",
-      "position":"Juvenile Court Supervising Attorney","phone":"504-827-8215","extension":280,"email":"nhill@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/122/thumb_Nzinga%20Hill.jpg"
-    }
+  "data": {
+    "John Ackerman": {"name":"John Ackerman","position":"Staff Investigator","phone":"504-827-8221","extension":278,"email":"jackerman@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/203/thumb_John%20Ackerman.jpg"},
+    "Mary Soo Anderson": {"name":"Mary Soo Anderson","position":"Staff Attorney","phone":"504-827-8178","extension":275,"email":"manderson@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/247/img_Mary%20Soo%20Anderson.jpg"},
+    "Lauren Anderson": {"name":"Lauren Anderson","position":"Staff Attorney","phone":"504-827-8190","extension":259,"email":"landerson@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/177/img_Lauren%20Anderson.jpg"},
+    "Grace Anzalone": {"name":"Grace Anzalone","position":"Youth Advocate","phone":"504-827-8181","extension":259,"email":"ganzalone@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/239/img_Grace%20Anzalone%20.jpg"},
+    "Mark Balfe": {"name":"Mark Balfe","position":"Paralegal, Gideon's Promise Fellow","phone":"504-827-7059","extension":316,"email":"mbalfe@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/269/img_Mark%20Balfe.jpg"},
+    "Dannielle Berger": {"name":"Dannielle Berger","position":"Chief Administrative Officer","phone":"504-827-8200","extension":224,"email":"dberger@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/124/img_Dannielle%20Berger.jpg"},
+    "Mehtab Brar": {"name":"Mehtab Brar","position":"Staff Attorney","phone":"504-827-8172","extension":236,"email":"mbrar@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/276/thumb_Mehtab%20Brar.jpg"},
+    "Derwyn Bunton": {"name":"Derwyn Bunton","position":"Chief District Defender","phone":"504-827-8204","extension":277,"email":"dbunton@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/68/thumb_Derwyn%20Bunton.jpg"},
+    "Elise Benusa": {"name":"Elise Benusa","position":"Client Services Deputy Supervisor","phone":"504-827-7047","extension":320,"email":"ebenusa@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/213/thumb_Elise%20Benusa.jpg"},
+    "Laura Bixby": {"name":"Laura Bixby","position":"Staff Attorney","phone":"504-827-7051","extension":326,"email":"lbixby@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/249/img_Laura%20Bixby.jpg"},
+    "James Brockway": {"name":"James Brockway","position":"Staff Attorney","phone":"504-571-8919","extension":306,"email":"jbrockway@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/220/thumb_James%20Brockway.jpg"},
+    "Alexis Chernow": {"name":"Alexis Chernow","position":"Staff Attorney","phone":"504-571-8920","extension":279,"email":"achernow@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/211/thumb_Alexis%20Chernow.jpg"},
+    "Jalicia Corley": {"name":"Jalicia Corley","position":"Staff Investigator","phone":"504-571-8912","extension":331,"email":"jcorley@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/119/thumb_Jalicia%20Corley.jpg"},
+    "Sean Collins": {"name":"Sean Collins","position":"Staff Attorney","phone":"504-827-8229","extension":309,"email":"scollins@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/278/thumb_Sean%20Collins.jpg"},
+    "Adrienne Cousins": {"name":"Adrienne Cousins","position":"Staff Attorney","phone":"504-827-8177","extension":235,"email":"acousins@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/156/thumb_Adrienne%20Cousins.jpg"},
+    "Ashley DeMouy": {"name":"Ashley DeMouy","position":"Staff Attorney","phone":"504-827-8233","extension":240,"email":"ademouy@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/173/thumb_Ashley%20DuMouy.jpg"},
+    "Dylan Duffey": {"name":"Dylan Duffey","position":"Staff Attorney","phone":"504-827-8250","extension":289,"email":"dduffey@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/250/thumb_Dylan%20Duffey.jpg"},
+    "Carrie Ellis": {"name":"Carrie Ellis","position":"Training Director","phone":"504-827-8222","extension":308,"email":"cellis@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/71/thumb_Carrie%20Ellis.jpg"},
+    "Danny Engelberg": {"name":"Danny Engelberg","position":"Chief of Trials","phone":"504-827-8186","extension":230,"email":"dengelberg@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/72/thumb_Danny%20Engelberg.jpg"},
+    "Yanet Estrella": {"name":"Yanet Estrella","position":"Staff Investigator, Ben Levick Sullivan Fellow","phone":"null","extension":null,"email":"yestrella@opdla.org","photo_url":"null"},
+    "Jan Fennell": {"name":"Jan Fennell","position":"Staff Attorney","phone":"504-827-8191","extension":251,"email":"jfennell@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/251/thumb_Jan%20Fennell.jpg"},
+    "Juan Fiol": {"name":"Juan Fiol","position":"Staff Attorney","phone":"504-827-7049","extension":322,"email":"jfiol@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/288/thumb_Juan%20Fiol.jpg"},
+    "Ed Flores": {"name":"Ed Flores","position":"Staff Attorney, Gideon's Promise Fellow","phone":"504-827-8171","extension":248,"email":"eflores@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/270/thumb_Ed%20Flores.jpg"},
+    "Amanda Fraser": {"name":"amanda Fraser","position":"Deputy Chief of Trials","phone":"504-827-8205","extension":298,"email":"afraser@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/73/thumb_Amanda%20Fraser.jpg"},
+    "Laura Garcia": {"name":"Laura Garcia","position":"Conflict Administrator","phone":"504-571-8924","extension":303,"email":"lgarcia@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/263/thumb_Laura%20Garcia.jpg"},
+    "Quintrell Griffin": {"name":"Quintrell Griffin","position":"Client and Court Support Administrator","phone":"504-571-8914","extension":293,"email":"qgriffin@opdla.org","photo_url":"null"},
+    "Lucy Hall": {"name":"Lucy Hall","position":"Staff Investigator","phone":"504-827-8184","extension":225,"email":"lhall@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/274/thumb_Lucy%20Hall.jpg"},
+    "Kenneth Hardin": {"name":"Kenneth Hardin","position":"Supervising Staff Attorney","phone":"504-827-8227","extension":288,"email":"khardin@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/93/thumb_Kenneth%20Hardin.jpg"},
+    "Nicole Heisser": {"name":"Nicole Heisser","position":"Supervising Investigator","phone":"504-827-8175","extension":231,"email":"nheisser@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/145/thumb_Nicole%20Heisser.jpg"},
+    "Nzinga Hill": {"name":"Nzinga Hill","position":"Juvenile Court Supervising Attorney","phone":"504-827-8215","extension":280,"email":"nhill@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/122/thumb_Nzinga%20Hill.jpg"},
+    "Lena Hinton": {"name":"Lena Hinton","position":"Staff Attorney","phone":"504-827-8253","extension":247,"email":"lhinton@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/272/thumb_Lena%20Hinton.jpg"},
+    "Mariah Holder": {"name":"Mariah Holder","position":"Staff Attorney","phone":"504-827-8173","extension":237,"email":"mholder@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/233/thumb_Mariah%20Holder.jpg"},
+    "Lindsey Hortenstine": {"name":"Lindsey Hortenstine","position":"Director of Communications and Development","phone":"504-827-8169","extension":233,"email":"lhortenstine@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/58/thumb_Lindsey%20Hortenstine.jpg"},
+    "Barksdale Hortenstine, Jr.": {"name":"Barksdale Hortenstine, Jr.","position":"Staff Attorney","phone":"504-827-8207","extension":263,"email":"bhortenstine@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/76/thumb_Barksdale%20Hortenstine.jpg"},
+    "Kiah Howard": {"name":"Kiah Howard","position":"Staff Investigator","phone":"504-827-8163","extension":269,"email":"khoward@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/178/thumb_Kiah%20Howard.jpg"},
+    "Jennifer Hull": {"name":"Jennifer Hull","position":"Staff Attorney","phone":"504-827-8249","extension":315,"email":"jhull@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/187/thumb_Jennifer%20Hull.jpg"},
+    "Sara Jones": {"name":"Sara Jones","position":"Staff Investigator","phone":"504-827-8174","extension":241,"email":"sjones@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/215/thumb_Sara%20Jones.jpg"},
+    "Dominque Jones": {"name":"Dominque Jones","position":"Executive Assistant to the Chief Defender","phone":"504-827-8247","extension":312,"email":"djones@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/265/thumb_Domnique%20Jones.jpg"},
+    "Marie Kerrin": {"name":"Marie Kerrin","position":"CINC Social Worker, LMSW","phone":"504-827-7047","extension":256,"email":"mkerrin@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/283/thumb_Marie%20Kerrin.jpg"},
+    "Tess Kilbane Myers": {"name":"Tess Kilbane Myers","position":"Municipal Court Client Advocate","phone":"504-658-9720","extension":null,"email":"tkilbanemyers@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/241/thumb_Tess%20Myers.jpg"},
+    "April LeBlanc": {"name":"April LeBlanc","position":"Supervising Client and Court Support Administrator","phone":"504-827-8254","extension":264,"email":"aleblanc@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/128/img_April%20LeBlanc.jpg"},
+    "Rachel Lindner": {"name":"Rachel Lindner","position":"Municipal Court Staff Attorney","phone":"504-827-8246","extension":325,"email":"rlindner@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/236/thumb_rachel%20lindner.jpg"},
+    "Malcolm Lloyd": {"name":"Malcolm Lloyd","position":"Staff Investigator","phone":"504-827-8231","extension":300,"email":"mlloyd@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/245/thumb_Malcolm%20Lloyd.jpg"},
+    "Hannah Lommers-Johnson": {"name":"Hannah Lommers-Johnson","position":"Staff Attorney","phone":"504-827-8244","extension":296,"email":"hljohnson@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/227/thumb_Hannah%20Lommers-Johnson.jpg"},
+    "Han Lu": {"name":"Han Lu","position":"Paralegal, Gideon's Promise fellow","phone":"504-827-8185","extension":314,"email":"hlu@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/271/thumb_Han%20Lu.jpg"},
+    "Max Luyre": {"name":"Max Luyre","position":"Client Advocate","phone":"504-827-8211","extension":304,"email":"mluyre@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/279/img_Max%20Luyre.jpg"},
+    "Lindsay Markel": {"name":"Lindsay Markel","position":"Staff Attorney","phone":"504-827-8197","extension":258,"email":"lmarkel@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/253/thumb_Lindsay%20Markel.jpg"},
+    "Brandi McNeil": {"name":"Brandi McNeil","position":"Staff Attorney","phone":"504-827-8189","extension":250,"email":"bmcneil@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/254/thumb_Brandi%20McNeil.jpg"},
+    "Jared Miller": {"name":"Jared Miller","position":"Staff Attorney","phone":"504-571-8921","extension":245,"email":"jmiller@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/223/thumb_Jared%20Miller.jpg"},
+    "Dede Minter": {"name":"Dede Minter","position":"Staff Investigator","phone":"504-827-8226","extension":283,"email":"dminter@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/238/thumb_Dede%20Minter.jpg"},
+    "Fiona McFadden": {"name":"Fiona McFadden","position":"Client and Court Support Administrator","phone":"504-827-7053","extension":254,"email":"fmcfadden@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/267/thumb_Fionna%20McFadden.jpg"},
+    "Eliza Meltzer": {"name":"Eliza Meltzer","position":"Staff Attorney","phone":"504-827-8256","extension":294,"email":"emeltzer@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/277/img_Eliza%20Meltzer.jpg"},
+    "Jimmy Miller": {"name":"Jimmy Miller","position":"Staff Attorney","phone":"504-827-8214","extension":310,"email":"jamiller@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/246/img_Jimmy%20Miller.jpg"},
+    "Stas Moroz": {"name":"Stas Moroz","position":"Staff Attorney","phone":"504-571-8918","extension":242,"email":"smoroz@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/224/thumb_Stas%20Moroz.jpg"},
+    "Jack Muse": {"name":"Jack Muse","position":"Staff Attorney","phone":"504-571-8922","extension":239,"email":"jmuse@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/225/thumb_Jack%20Muse.jpg"},
+    "Emily New": {"name":"Emily New","position":"Staff Attorney","phone":"504-827-8176","extension":229,"email":"enew@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/273/img_Emily%20New.jpg"},
+    "Zack Orjuela": {"name":"Zack Orjuela","position":"Staff Attorney","phone":"504-827-8257","extension":295,"email":"zorjuela@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/171/thumb_Zach%20Orejula.jpg"},
+    "Zach Oshin": {"name":"Zach Oshin","position":"Municipal Court and Client Services Administrator","phone":"504-658-9765","extension":null,"email":"zoshin@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/280/img_Zach%20Oshin.jpg"},
+    "Karen Orzechowski": {"name":"Karen Orzechowski","position":"Staff Attorney","phone":"504-821-8103","extension":222,"email":"korzechowski@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/230/thumb_Karen%20Orzechowski.jpg"},
+    "Sarah O'Brien": {"name":"Sarah O'Brien","position":"Staff Attorney","phone":"504-827-7045","extension":327,"email":"sobrien@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/255/thumb_Sarah%20O'Brien.jpg"},
+    "Ginger Parsons": {"name":"Ginger Parsons","position":"LCSW-BACS, Client Services Division Supervisor","phone":"504-827-8182","extension":234,"email":"gparsons@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/172/img_Ginger%20Parsons.jpg"},
+    "Tina Peng": {"name":"Tina Peng","position":"Staff Attorney","phone":"504-827-8251","extension":305,"email":"tpeng@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/193/thumb_Tina%20Peng.jpg"},
+    "Josh Pichon": {"name":"Josh Pichon","position":"Staff Investigator","phone":"504-827-8239","extension":313,"email":"jpichon@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/186/thumb_Josh%20Pichon.jpg"},
+    "Billy Pavord": {"name":"Billy Pavord","position":"Client Advocate","phone":"504-827-8213","extension":285,"email":"bpavord@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/282/img_Billy%20Pavord.jpg"},
+    "Norman Pettingill": {"name":"Norman Pettingill","position":"Traffic Court Staff Attorney","phone":"504-658-9691","extension":null,"email":"npettingill@opdla.org","photo_url":"null"},
+    "Chris Pourciau": {"name":"Chris Pourciau","position":"Bond Advocate","phone":"504-827-8258","extension":299,"email":"cpourciau@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/243/thumb_Chris%20Pourciau.jpg"},
+    "Chasity Redman": {"name":"Chasity Redman","position":"Client and Court Support Administrator","phone":"504-827-8224","extension":291,"email":"credman@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/129/thumb_Chasity%20Redman.jpg"},
+    "Steve Robinson": {"name":"Steve Robinson","position":"Social Worker, LMSW","phone":"504-571-8930","extension":318,"email":"srobinson@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/259/thumb_Steve%20Robinson.jpg"},
+    "Arthur Rowe": {"name":"Arthur Rowe","position":"Staff Attorney","phone":"504-827-8188","extension":266,"email":"arowe@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/120/thumb_Arthur%20Rowe.jpg"},
+    "colin Reingold": {"name":"colin Reingold","position":"Special Litigation Director - Senior Counsel","phone":"504-827-8220","extension":290,"email":"creingold@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/113/thumb_Colin%20Reingold.jpg"},
+    "Leon Roché": {"name":"Leon Roché","position":"Staff Attorney","phone":"504-827-8209","extension":228,"email":"lroche@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/102/thumb_Leon%20Roche.jpg"},
+    "Esi Seanehia": {"name":"Esi Seanehia","position":"Staff Investigator","phone":"504-827-8208","extension":232,"email":"eseanehia@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/275/thumb_Esi%20Seanehia.jpg"},
+    "Eden Shlomi": {"name":"Eden Shlomi","position":"Client Advocate","phone":"504-571-8913","extension":272,"email":"eshlomi@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/281/thumb_Eden%20Shlomi.jpg"},
+    "Will Snowden": {"name":"Will Snowden","position":"Supervising Staff Attorney","phone":"504-827-8225","extension":273,"email":"wsnowden@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/194/thumb_Will%20Snowden.jpg"},
+    "Brandi Studer": {"name":"Brandi Studer","position":"Staff Attorney","phone":"504-827-8236","extension":null,"email":"bstuder@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/232/thumb_Brandi%20Studer.jpg"},
+    "Beth Sgro": {"name":"Beth Sgro","position":"Staff Attorney","phone":"504-827-8218","extension":286,"email":"bsgro@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/252/thumb_Beth%20Sgro.jpg"},
+    "Bridget Snow": {"name":"Bridget Snow","position":"Staff Investigator","phone":"null","extension":null,"email":"bsnow@opdla.org","photo_url":"null"},
+    "Latonda St. Cyr": {"name":"Latonda St. Cyr","position":"Client and Court Support Administrator","phone":"504-827-7046","extension":260,"email":"lstcyr@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/287/thumb_LaTonda%20St.%20Cyr.jpg"},
+    "Molly Thomas": {"name":"Molly Thomas","position":"Staff Investigator and Interpreter","phone":"504-827-7048","extension":321,"email":"mthomas@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/231/thumb_Molly%20Thomas.jpg"},
+    "Sierra Thompson": {"name":"Sierra Thompson","position":"Training Supervisor","phone":"504-827-8196","extension":252,"email":"sthompson@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/198/thumb_Sierra%20Thompson.jpg"},
+    "Matt Vogel": {"name":"Matt Vogel","position":"Staff Attorney","phone":"504-571-8923","extension":223,"email":"mvogel@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/228/thumb_Matt%20Vogel.jpg"},
+    "Kasandra Washington": {"name":"Kasandra Washington","position":"Kendall Vick Client Advocate Fellow","phone":"504-827-8235","extension":262,"email":"kwashington@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/285/thumb_kasandra%20washington.jpg"},
+    "Brian Woods": {"name":"Brian Woods","position":"Staff Attorney","phone":"504-827-7058","extension":311,"email":"bwoods@opdla.org","photo_url":"http://www.opdla.org/images/sobipro/entries/200/thumb_Brian%20Woods.jpg"}
   }
 }

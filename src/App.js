@@ -9,7 +9,7 @@ import CounselData from './data/counsels.json';
 
 var docket = {
   "name": "Marlin Gusman",
-  "counsel": "Lucy Hall",
+  "counsel": "Brian Woods",
   "section": "E",
 }
 
