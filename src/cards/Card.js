@@ -1,16 +1,15 @@
 import React, { Component } from 'react';
 import styled from 'styled-components';
 
-const Container = styled.a`
+const StyledCard = styled.a`
   display: block;
-  padding: 1em;
   margin: 1ex 1em;
   background: #FDFDFD;
   box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
   border-radius: 2px;
   transition: 0.1s box-shadow ease-in;
   color: #333333;
-  display: flex;
+  overflow: hidden;
 
   &:hover {
     background: white;
@@ -18,32 +17,49 @@ const Container = styled.a`
   }
 `
 
-const CardContent = styled.div`
+
+const Body = styled.div`
+  display: flex;
+  padding: 1em;
+`
+
+const Content = styled.div`
   flex: 1;
 `
 
-const CardTitle = styled.h3`
+const Title = styled.h3`
   font-size: 13px;
   color: #828282;
 `
 
-const CardThumbnail = styled.img`
+const Thumbnail = styled.img`
   width: 100px;
   height: 100px;
   align-self: flex-end;
 `
 
+const Banner = styled.div`
+  width: 100%;
+  height: 100px;
+  background-image: url(${props => props.image});
+  background-size: cover;
+  background-position: center;
+`
+
+
 class Card extends React.Component {
   render() {
     return(
-      <Container>
-        <CardContent>
-          <CardTitle>{this.props.title}</CardTitle>
-          <p>{this.props.entity.name}</p>
-          {this.props.children}
-        </CardContent>
-        <CardThumbnail src={this.props.entity.photo_url} />
-      </Container>
+      <StyledCard>
+        {this.props.banner && <Banner image={this.props.banner} />}
+        <Body>
+          <Content>
+            <Title>{this.props.title}</Title>
+            {this.props.children}
+          </Content>
+          {this.props.thumbnail && <Thumbnail src={this.props.thumbnail} />}
+        </Body>
+      </StyledCard>
     );
   }
 }
