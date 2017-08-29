@@ -1,6 +1,7 @@
+import React, { Component } from 'react';
 import styled from 'styled-components';
 
-const Card = styled.a`
+const Container = styled.a`
   display: block;
   padding: 1em;
   margin: 1ex 1em;
@@ -21,7 +22,7 @@ const CardContent = styled.div`
   flex: 1;
 `
 
-const CardLabel = styled.h3`
+const CardTitle = styled.h3`
   font-size: 13px;
   color: #828282;
 `
@@ -32,4 +33,19 @@ const CardThumbnail = styled.img`
   align-self: flex-end;
 `
 
-export {Card, CardLabel, CardThumbnail, CardContent}
+class Card extends React.Component {
+  render() {
+    return(
+      <Container>
+        <CardContent>
+          <CardTitle>{this.props.title}</CardTitle>
+          <p>{this.props.entity.name}</p>
+          {this.props.children}
+        </CardContent>
+        <CardThumbnail src={this.props.entity.photo_url} />
+      </Container>
+    );
+  }
+}
+
+export default Card

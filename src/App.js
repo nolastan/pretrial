@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
-import JudgeCard from './cards/JudgeCard.js';
-import CounselCard from './cards/CounselCard.js';
 import Hero from './Hero.js';
+import Card from './cards/Card.js';
 
 // Stubbed Data
 import JudgeData from './data/judges.json';
@@ -19,8 +18,8 @@ class App extends Component {
     return (
       <div className="App">
         <Hero name={docket.name} />
-        <JudgeCard judge={JudgeData.data[docket.section]} />
-        <CounselCard counsel={CounselData.data[docket.counsel]} />
+        <Card entity={JudgeData.data[docket.section]} title="Your judge" />
+        <Card entity={CounselData.data[docket.counsel]} title="Your public defender" />
       </div>
     );
   }
