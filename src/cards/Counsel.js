@@ -12,13 +12,13 @@ class Counsel extends React.Component {
 
     if(counsel) {
       return(
-        <Card title="Your public defender" thumbnail={counsel.photo_url}>
+        <Card title="Public Defender" thumbnail={counsel.photo_url}>
           <p>{counsel.name}</p>
         </Card>
       )
     } else {
       return(
-        <Card title="Your lawyer">
+        <Card title="Defense Attorney">
           {this.props.counsel}
         </Card>
       )

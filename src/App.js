@@ -34,13 +34,13 @@ class App extends Component {
       <div className="App">
         <Hero defendant={this.state.record.docket.defendants[0]} />
 
-        <Card title="Your judge" thumbnail={judge.photo_url}>
+        <Card title="Judge" thumbnail={judge.photo_url}>
           <p>{judge.name}</p>
         </Card>
 
         <Counsel counsel={this.state.record.docket.counsel} />
 
-        <Card title="Your courtroom" banner="images/court.jpg">
+        <Card title="Courtroom" banner="images/court.jpg">
           <p>Orleans Parish Criminal District Court, Section {this.state.record.docket.section}</p>
           <p>Courtroom #{judge.courtroom} ({Ordinal(judge.floor)} floor)<br />
              2700 Tulane Avenue
