@@ -10,7 +10,6 @@ import CounselData from './data/counsels.json';
 
 var docket = {
   "name": "Gregory Hunter",
-  "counsel": "Brian Woods"
 }
 
 var counsel = CounselData.data[docket.counsel]
@@ -35,6 +34,7 @@ class App extends Component {
     }
 
     var judge = JudgeData.data[this.state.record.docket.section]
+    var public_defender = CounselData.data[this.state.record.docket.counsel]
 
     return (
       <div className="App">
@@ -44,8 +44,12 @@ class App extends Component {
           <p>{judge.name}</p>
         </Card>
 
-        <Card title="Your public defender" thumbnail={counsel.photo_url}>
-          <p>{counsel.name}</p>
+        <Card title="Your public defender" thumbnail={public_defender && public_defender.photo_url}>
+          <p>{public_defender && public_defender.name}</p>
+        </Card>
+
+        <Card title="Your lawyer">
+          <p>{!public_defender &&this.state.record.docket.counsel}</p>
         </Card>
 
         <Card title="Your courtroom" banner="images/court.jpg">
