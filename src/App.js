@@ -8,24 +8,19 @@ import Card from './cards/Card.js';
 import JudgeData from './data/judges.json';
 import CounselData from './data/counsels.json';
 
-var docket = {
-  "name": "Gregory Hunter",
-}
-
-var counsel = CounselData.data[docket.counsel]
-
 class App extends Component {
 
   state = {record: {}}
 
   loadDocketByNumber(docketNumber) {
-    fetch(`http://homewardnola.herokuapp.com/api/dockets/d${docketNumber}`)
+    fetch(`http://localhost:3001/api/dockets/d${docketNumber}`)
+    // fetch(`http://homewardnola.herokuapp.com/api/dockets/d${docketNumber}`)
       .then(res => res.json())
       .then(record => this.setState({record: record}));
   }
 
   componentDidMount() {
-    this.loadDocketByNumber("526290")
+    this.loadDocketByNumber("526295")
   }
 
   render() {
@@ -38,7 +33,7 @@ class App extends Component {
 
     return (
       <div className="App">
-        <Hero name={docket.name} />
+        <Hero defendant={this.state.record.docket.defendants[0]} />
 
         <Card title="Your judge" thumbnail={judge.photo_url}>
           <p>{judge.name}</p>
