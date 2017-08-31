@@ -3,6 +3,7 @@ import Ordinal from 'ordinal'
 
 import Hero from './Hero.js';
 import Card from './cards/Card.js';
+import Counsel from './cards/Counsel.js';
 
 // Stubbed Data
 import JudgeData from './data/judges.json';
@@ -29,7 +30,6 @@ class App extends Component {
     }
 
     var judge = JudgeData.data[this.state.record.docket.section]
-    var public_defender = CounselData.data[this.state.record.docket.counsel]
 
     return (
       <div className="App">
@@ -39,13 +39,7 @@ class App extends Component {
           <p>{judge.name}</p>
         </Card>
 
-        <Card title="Your public defender" thumbnail={public_defender && public_defender.photo_url}>
-          <p>{public_defender && public_defender.name}</p>
-        </Card>
-
-        <Card title="Your lawyer">
-          <p>{!public_defender &&this.state.record.docket.counsel}</p>
-        </Card>
+        <Counsel counsel={CounselData.data[this.state.record.docket.counsel]} />
 
         <Card title="Your courtroom" banner="images/court.jpg">
           <p>Orleans Parish Criminal District Court, Section {this.state.record.docket.section}</p>
