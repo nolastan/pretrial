@@ -1,28 +1,26 @@
 import React from 'react'
 import Card from './Card'
 
-import CounselData from '../data/counsels.json';
-
 class Counsel extends React.Component {
 
+  state = {counsel: {}}
+
+  componentDidMount() {
+    if(!this.props.counsel_name) { return null }
+
+    fetch(`http://localhost:3001/api/counsels/${this.props.counsel_name}`)
+      .then(res => res.json())
+      .then(counsel => this.setState({counsel: counsel}))
+  }
+
   render() {
-    if(!this.props.counsel) { return null }
+    if(!this.props.counsel_name) { return null }
 
-    var counsel = CounselData.data[this.props.counsel]
-
-    if(counsel) {
-      return(
-        <Card title="Public Defender" thumbnail={counsel.photo_url}>
-          <p>{counsel.name}</p>
-        </Card>
-      )
-    } else {
-      return(
-        <Card title="Defense Attorney">
-          {this.props.counsel}
-        </Card>
-      )
-    }
+    return(
+      <Card title={this.state.counsel.position || "Defense Attorney"} thumbnail={this.state.counsel.photo_url}>
+        <p>{this.state.counsel.name}</p>
+      </Card>
+    )
   }
 }
 
