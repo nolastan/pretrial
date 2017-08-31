@@ -1,19 +1,28 @@
 import React from 'react'
 import Card from './Card'
 
-class Counsel extends React.Component {
-  render() {
-    return(
-      <div>
-      <Card title="Your public defender" thumbnail={this.props.counsel && this.props.counsel.photo_url}>
-        <p>{this.props.counsel && this.props.counsel.name}</p>
-      </Card>
+import CounselData from '../data/counsels.json';
 
-      <Card title="Your lawyer">
-        <p>{!this.props.counsel &&this.state.record.docket.counsel}</p>
-      </Card>
-      </div>
-    )
+class Counsel extends React.Component {
+
+  render() {
+    if(!this.props.counsel) { return null }
+
+    var counsel = CounselData.data[this.props.counsel]
+
+    if(counsel) {
+      return(
+        <Card title="Your public defender" thumbnail={counsel.photo_url}>
+          <p>{counsel.name}</p>
+        </Card>
+      )
+    } else {
+      return(
+        <Card title="Your lawyer">
+          {this.props.counsel}
+        </Card>
+      )
+    }
   }
 }
 

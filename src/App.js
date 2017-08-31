@@ -7,7 +7,6 @@ import Counsel from './cards/Counsel.js';
 
 // Stubbed Data
 import JudgeData from './data/judges.json';
-import CounselData from './data/counsels.json';
 
 class App extends Component {
 
@@ -39,7 +38,7 @@ class App extends Component {
           <p>{judge.name}</p>
         </Card>
 
-        <Counsel counsel={CounselData.data[this.state.record.docket.counsel]} />
+        <Counsel counsel={this.state.record.docket.counsel} />
 
         <Card title="Your courtroom" banner="images/court.jpg">
           <p>Orleans Parish Criminal District Court, Section {this.state.record.docket.section}</p>
