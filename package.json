@@ -2,7 +2,7 @@
   "name": "pretrial",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://nolastan.github.io/pretrial",
+  "homepage": "http://pretrialapp.com",
   "dependencies": {
     "ordinal": "^1.0.2",
     "react": "^15.6.1",
