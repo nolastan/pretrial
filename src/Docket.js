@@ -23,7 +23,7 @@ class Docket extends Component {
   componentDidMount() {
     if(!this.props.match.params.number) { return null }
     // fetch(`http://localhost:3001/api/dockets/d${this.props.match.params.number}`)
-    fetch(`http://homewardnola.herokuapp.com/api/dockets/d${this.props.match.params.number}`)
+    fetch(`https://homewardnola.herokuapp.com/api/dockets/d${this.props.match.params.number}`)
       .then(res => res.json())
       .then(record => this.setState({loading: false, record: record}));
   }

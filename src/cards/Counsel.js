@@ -9,7 +9,7 @@ class Counsel extends React.Component {
     if(!this.props.counsel_name) { return null }
 
     // fetch(`http://localhost:3001/api/counsels/${this.props.counsel_name}`)
-    fetch(`http://homewardnola.herokuapp.com/api/counsels/${this.props.counsel_name}`)
+    fetch(`https://homewardnola.herokuapp.com/api/counsels/${this.props.counsel_name}`)
       .then(res => res.json())
       .then(counsel => this.setState({counsel: counsel}))
   }
