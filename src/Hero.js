@@ -11,8 +11,7 @@ class Hero extends React.Component {
   render() {
     return(
       <HeroContainer>
-        <p>{this.props.defendant.first_name} {this.props.defendant.last_name}, your arraignment is in <strong>3 days</strong>.</p>
-        <p>You must appear in court on Wednesday, November 20 at 11am.</p>
+        <p>Hello, {this.props.defendant.first_name} {this.props.defendant.last_name}.</p>
       </HeroContainer>
     );
   }

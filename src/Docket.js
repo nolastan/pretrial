@@ -29,10 +29,6 @@ class Docket extends Component {
   }
 
   render() {
-    if(!this.props.match.params.number) {
-      return (<div>Type something…</div>)
-    }
-
     if(this.state.loading) {
       return (<div>Loading…</div>)
     }
