@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import Docket from './Docket'
 import Card from './cards/Card'
+import {Redirect} from 'react-router-dom'
 
 class Search extends Component {
 
@@ -25,7 +26,7 @@ class Search extends Component {
 
   render() {
     if(this.state.show_docket) {
-      return <Docket number={this.state.docket_number} />
+      return <Redirect to={"/docket/"+ this.state.docket_number} />
     } else {
       return (
         <form onSubmit={this.handleSubmit}>
@@ -37,8 +38,8 @@ class Search extends Component {
 
           <Card>
             <p>Can’t find your magistrate number or docket number?</p>
-            <p><a href="#">Search magistrate</a></p>
-            <p><a href="#">Search criminal court</a></p>
+            <p>Search magistrate</p>
+            <p>Search criminal court</p>
           </Card>
         </form>
       )
