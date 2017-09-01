@@ -4,6 +4,7 @@ import Ordinal from 'ordinal'
 import Hero from './Hero.js';
 import Card from './cards/Card.js';
 import Counsel from './cards/Counsel.js';
+import Charge from './cards/Charge.js';
 
 // Stubbed Data
 import JudgeData from './data/judges.json';
@@ -55,7 +56,10 @@ class Docket extends Component {
              2700 Tulane Avenue
           </p>
         </Card>
-
+        <h3 style={{"textAlign": "center"}}>Charges</h3>
+        {this.state.record.charges.map(function(charge) {
+          return <Charge key={charge.id} charge={charge} />;
+        })}
       </div>
     );
   }
