@@ -4,79 +4,79 @@
   "data": {
     "A": {
       "name": "Laurie A. White",
-      "photo_url": "images/judges/section-a-square.jpeg",
+      "photo_url": "/images/judges/section-a-square.jpeg",
       "courtroom": 3,
       "floor": 1
     },
     "B": {
       "name": "Tracey Flemings-Davillier",
-      "photo_url": "images/judges/section-b-square.png",
+      "photo_url": "/images/judges/section-b-square.png",
       "courtroom": 2,
       "floor": 1
     },
     "C": {
       "name": "Benedict J. Willard",
-      "photo_url": "images/judges/section-c-square.jpeg",
+      "photo_url": "/images/judges/section-c-square.jpeg",
       "courtroom": 5,
       "floor": 1
     },
     "D": {
       "name": "Paul A. Bonin",
-      "photo_url": "images/judges/section-d-square.jpeg",
+      "photo_url": "/images/judges/section-d-square.jpeg",
       "courtroom": 14,
       "floor": 3
     },
     "E": {
       "name": "Keva Landrum-Johnson",
-      "photo_url": "images/judges/section-e-square.jpeg",
+      "photo_url": "/images/judges/section-e-square.jpeg",
       "courtroom": 10,
       "floor": 2
     },
     "F": {
       "name": "Robin D. Pittman",
-      "photo_url": "images/judges/section-f-square.jpeg",
+      "photo_url": "/images/judges/section-f-square.jpeg",
       "courtroom": 12,
       "floor": 2
     },
     "G": {
       "name": "Byron C. Williams",
-      "photo_url": "images/judges/section-g-square.png",
+      "photo_url": "/images/judges/section-g-square.png",
       "courtroom": 15,
       "floor": 3
     },
     "H": {
       "name": "Camille Buras",
-      "photo_url": "images/judges/section-h-square.jpeg",
+      "photo_url": "/images/judges/section-h-square.jpeg",
       "courtroom": 8,
       "floor": 2
     },
     "I": {
       "name": "Karen K. Herman",
-      "photo_url": "images/judges/section-i-square.jpeg",
+      "photo_url": "/images/judges/section-i-square.jpeg",
       "courtroom": 11,
       "floor": 2
     },
     "J": {
       "name": "Darryl A. Derbigny",
-      "photo_url": "images/judges/section-j-square.jpeg",
+      "photo_url": "/images/judges/section-j-square.jpeg",
       "courtroom": 13,
       "floor": 2
     },
     "K": {
       "name": "Arthur L. Hunter, Jr.",
-      "photo_url": "images/judges/section-k-square.jpeg",
+      "photo_url": "/images/judges/section-k-square.jpeg",
       "courtroom": 7,
       "floor": 2
     },
     "L": {
       "name": "Franz L. Zibilich",
-      "photo_url": "images/judges/section-l-square.jpeg",
+      "photo_url": "/images/judges/section-l-square.jpeg",
       "courtroom": 9,
       "floor": 2
     },
     "M1": {
       "name": "Harry E. Cantrell, Jr.",
-      "photo_url": "images/judges/magistrate-square.jpeg",
+      "photo_url": "/images/judges/magistrate-square.jpeg",
       "courtroom": 1,
       "floor": 1
     }

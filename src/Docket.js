@@ -46,7 +46,7 @@ class Docket extends Component {
           <p>{judge.name}</p>
         </Card>
 
-        <Card title="Courtroom" banner="images/court.jpg">
+        <Card title="Courtroom" banner="/images/court.jpg">
           <p>Orleans Parish Criminal District Court, Section {this.state.record.docket.section}</p>
           <p>Courtroom #{judge.courtroom} ({Ordinal(judge.floor)} floor)<br />
              2700 Tulane Avenue
