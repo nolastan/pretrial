@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
-import registerServiceWorker from './registerServiceWorker';
+// import registerServiceWorker from './registerServiceWorker';
 import { HashRouter } from 'react-router-dom'
 
 ReactDOM.render((
@@ -11,4 +11,5 @@ ReactDOM.render((
   </HashRouter>
 ), document.getElementById('root'))
 
-registerServiceWorker();
+// Need SSL on custom domain for this to work
+// registerServiceWorker();
