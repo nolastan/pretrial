@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import Ordinal from 'ordinal'
 
 import Hero from './Hero.js';
+import Entry from './Entry.js';
 import Card from './cards/Card.js';
 import Counsel from './cards/Counsel.js';
 import Charge from './cards/Charge.js';
@@ -56,6 +57,12 @@ class Docket extends Component {
         {this.state.record.charges.map(function(charge) {
           return <Charge key={charge.id} charge={charge} />;
         })}
+
+        <h3 style={{"textAlign": "center"}}>Entries</h3>
+        {this.state.record.docket.updates.slice(0).reverse().map(function(update) {
+          return <Entry key={"update-"+update.date} update={update} />;
+        })}
+
       </div>
     );
   }
