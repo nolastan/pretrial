@@ -1,3 +1,5 @@
+* { box-sizing: border-box; }
+
 body {
   margin: 0 auto;
   padding: 0;
@@ -10,4 +12,8 @@ body {
 
 strong {
   font-weight: 700;
+}
+
+a {
+  text-decoration: none;
 }

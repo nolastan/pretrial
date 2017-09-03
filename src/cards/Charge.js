@@ -5,7 +5,8 @@ class Charge extends React.Component {
 
   render() {
     return(
-      <Card title={this.props.charge.counts}>
+      <Card title={this.props.charge.counts +
+        " count" + (this.props.charge.counts > 1 && "s" || "")}>
         <div>{this.props.charge.statute}</div>
         <p>{this.props.charge.description}</p>
       </Card>

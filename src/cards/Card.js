@@ -50,7 +50,7 @@ const Banner = styled.div`
 class Card extends React.Component {
   render() {
     return(
-      <StyledCard>
+      <StyledCard href={this.props.href}>
         {this.props.banner && <Banner image={this.props.banner} />}
         <Body>
           <Content>
